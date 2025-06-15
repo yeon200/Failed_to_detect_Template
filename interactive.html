@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>What do you see?</title>
+  <link rel="stylesheet" href="css/interactive.css" />
+</head>
+<body>
+  <h1>What do you see?</h1>
+
+  <div class="container">
+    <img id="interactiveImage" src="images/gen_1.jpg" />
+    <div id="outputArea" class="output-area"></div>
+  </div>
+
+  <form id="inputForm">
+    <input id="userInput" type="text" placeholder="What do you see or feel?" />
+    <button type="submit">Submit</button>
+  </form>
+
+  <audio id="ambient" src="sound/ambient1.mp3" autoplay loop></audio>
+
+  <script src="js/interactive.js"></script>
+</body>
+</html>

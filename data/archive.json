@@ -1,0 +1,355 @@
+[
+  {
+    "image": "1.jpg",
+    "predictions": [
+      {"label": "label : 익힌 닭고기 조각", "confidence": "confidence : 14%"},
+      {"label": "label : 곰팡이 핀 치즈", "confidence": "confidence : 11%"},
+      {"label": "label : 젤라틴 잔해", "confidence": "confidence : 12%"}
+    ],
+    "final_decision": "final_decision : 분류 실패"
+  },
+  {
+    "image": "2.jpg",
+    "predictions": [
+      {"label": "label : 오렌지껍질", "confidence": "confidence : 6%"},
+      {"label": "label : 비눗방울 패턴", "confidence": "confidence : 5%"},
+      {"label": "label : 금속 부식", "confidence": "confidence : 9%"}
+    ],
+    "final_decision": "final_decision : 분류 실패"
+  },
+  {
+    "image": "3.jpg",
+    "predictions": [
+      {"label": "label : 페인트 찌꺼기", "confidence": "confidence : 14%"},
+      {"label": "label : 조개껍데기 부스러기", "confidence": "confidence : 12%"},
+      {"label": "label : 회색 슬러지", "confidence": "confidence : 15%"}
+    ],
+    "final_decision": "final_decision : 분류 실패"
+  },
+ {
+    "image": "4.jpg",
+    "predictions": [
+      {"label": "label : 녹슨 기계 나사", "confidence": "confidence : 11%"},
+      {"label": "label : 물 묻은 볼트", "confidence": "confidence : 9%"},
+      {"label": "label : 초록색 금속 사출물", "confidence": "confidence : 10%"}
+    ],
+    "final_decision": "final_decision : 분류 실패"
+  },
+  {
+    "image": "5.jpg",
+    "predictions": [
+      {"label": "label : 부서진 콘크리트", "confidence": "confidence : 14%"},
+      {"label": "label : 진흙 섞인 흙", "confidence": "confidence : 8%"},
+      {"label": "label : 썩은 스펀지", "confidence": "confidence : 6%"}
+    ],
+    "final_decision": "final_decision : 분류 실패"
+  },
+  {
+     "image": "6.jpg",
+     "predictions": [
+       {"label": "label : 녹슨 철사", "confidence": "confidence : 11%"},
+       {"label": "label : 이끼 낀 로프", "confidence": "confidence : 4%"},
+       {"label": "label : 고무코팅 케이블", "confidence": "confidence : 11%"}
+    ], 
+    "final_decision": "final_decision : 분류 실패"
+    },
+  {
+    "image": "7.jpg",
+    "predictions": [
+      {"label": "label : 돌가루", "confidence": "confidence : 9%"},
+      {"label": "label : 건조된 미생물 군집", "confidence": "confidence : 13%"},
+      {"label": "label : 청소기 필터 부스러기", "confidence": "confidence : 13%"}
+    ],
+    "final_decision": "final_decision : 분류 실패"
+  },
+    {
+        "image": "8.jpg",
+        "predictions": [
+        {"label": "label : 핑크색 화장품 가루", "confidence": "confidence : 4%"},
+        {"label": "label : 종이 위 먼지", "confidence": "confidence : 10%"},
+        {"label": "label : 오래된 벽지", "confidence": "confidence : 14%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },   
+    {
+        "image": "9.jpg",
+        "predictions": [
+        {"label": "label : 투명 젤 잔해", "confidence": "confidence : 4%"},
+        {"label": "label : 유리조각", "confidence": "confidence : 14%"},
+        {"label": "label : 레진 오염물", "confidence": "confidence : 13%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "10.jpg",
+        "predictions": [
+        {"label": "label : 비닐랩 조각", "confidence": "confidence : 7%"},
+        {"label": "label : 얼룩진 아크릴판", "confidence": "confidence : 9%"},
+        {"label": "label : 코팅된 플라스틱", "confidence": "confidence : 7%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },               
+    {
+        "image": "11.jpg",
+        "predictions": [
+        {"label": "label : 이끼 낀 플라스틱", "confidence": "confidence : 6%"},
+        {"label": "label : 녹조류 슬라임", "confidence": "confidence : 7%"},
+        {"label": "label : 감자껍질", "confidence": "confidence : 9%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "12.jpg",
+        "predictions": [
+        {"label": "label : 금가루 반죽", "confidence": "confidence : 5%"},
+        {"label": "label : 쿠키 도우", "confidence": "confidence : 5%"},
+        {"label": "label : 껌 찌꺼기", "confidence": "confidence : 9%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },      
+    {
+        "image": "13.jpg",
+        "predictions": [
+        {"label": "label : 마른 감자껍질", "confidence": "confidence : 8%"},
+        {"label": "label : 말린 꽃잎", "confidence": "confidence : 14%"},
+        {"label": "label : 피부 조직", "confidence": "confidence : 13%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "14.jpg",
+        "predictions": [
+        {"label": "label : 지문 확대", "confidence": "confidence : 6%"},
+        {"label": "label : 도마뱀 비늘", "confidence": "confidence : 13%"},
+        {"label": "label : 탄 화석", "confidence": "confidence : 12%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "15.jpg",
+        "predictions": [
+        {"label": "label : 돌가루 섞인 크림", "confidence": "confidence : 10%"},
+        {"label": "label : 건조된 비누", "confidence": "confidence : 10%"},
+        {"label": "label : 파묻힌 종이", "confidence": "confidence : 12%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },                                   
+    {
+        "image": "16.jpg",
+        "predictions": [
+        {"label": "label : 조개껍질", "confidence": "confidence : 15%"},
+        {"label": "label : 부패한 나무", "confidence": "confidence : 13%"},
+        {"label": "label : 건조 식재료", "confidence": "confidence : 8%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "17.jpg",
+        "predictions": [
+        {"label": "label : 인형 입술", "confidence": "confidence : 9%"},
+        {"label": "label : 오래된 사진", "confidence": "confidence : 8%"},
+        {"label": "label : 프린팅된 종이", "confidence": "confidence : 13%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "18.jpg",
+        "predictions": [
+        {"label": "label : 안경 착용자 클로즈업", "confidence": "confidence : 15%"},
+        {"label": "label : 인형 얼굴", "confidence": "confidence : 5%"},
+        {"label": "label : 잡지 클로즈업", "confidence": "confidence : 14%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "19.jpg",
+        "predictions": [
+        {"label": "label : 털실", "confidence": "confidence : 5%"},
+        {"label": "label : 나무결", "confidence": "confidence : 5%"},
+        {"label": "label : 종이 위의 가루", "confidence": "confidence : 11%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "20.jpg",
+        "predictions": [
+        {"label": "label : 해부된 물고기 지느러미", "confidence": "confidence : 4%"},
+        {"label": "label : 플라스틱 나뭇가지", "confidence": "confidence : 12%"},
+        {"label": "label : 매듭된 실", "confidence": "confidence : 4%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },       
+    {
+        "image": "21.jpg",
+        "predictions": [
+        {"label": "label : 잉크 번짐", "confidence": "confidence : 14%"},
+        {"label": "label : 나뭇가지 음영", "confidence": "confidence : 6%"},
+        {"label": "label : 전선 패턴", "confidence": "confidence : 10%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "22.jpg",
+        "predictions": [
+        {"label": "label : 픽셀 배열", "confidence": "confidence : 4%"},
+        {"label": "label : RGB 전구", "confidence": "confidence : 6%"},
+        {"label": "label : 스크린 확대", "confidence": "confidence : 7%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },      
+    {
+        "image": "23.jpg",
+        "predictions": [
+        {"label": "label : 욕실 타일", "confidence": "confidence : 9%"},
+        {"label": "label : 에폭시 바닥", "confidence": "confidence : 6%"},
+        {"label": "label : 냉장고 코너", "confidence": "confidence : 6%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "24.jpg",
+        "predictions": [
+        {"label": "label : 플라스틱 용기", "confidence": "confidence : 3%"},
+        {"label": "label : 아크릴 명판", "confidence": "confidence : 14%"},
+        {"label": "label : 투명한 플라스틱 알파벳", "confidence": "confidence : 7%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },  
+    {
+        "image": "25.jpg",
+        "predictions": [
+        {"label": "label : 금속 날카로운 파편", "confidence": "confidence : 8%"},
+        {"label": "label : 은박지 조각", "confidence": "confidence : 7%"},
+        {"label": "label : 칼날", "confidence": "confidence : 5%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },                  
+    {
+            "image": "26.jpg",
+            "predictions": [
+            {"label": "label : 고체 필터", "confidence": "confidence : 9%"},
+            {"label": "label : 기모 카펫", "confidence": "confidence : 11%"},
+            {"label": "label : 화장지", "confidence": "confidence : 13%"}
+            ],
+            "final_decision": "final_decision : 분류 실패"
+        },       
+    {
+        "image": "27.jpg",
+        "predictions": [
+        {"label": "label : 고대 금속", "confidence": "confidence : 5%"},
+        {"label": "label : 동전 일부", "confidence": "confidence : 7%"},
+        {"label": "label : 메달 장식", "confidence": "confidence : 11%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "28.jpg",
+        "predictions": [
+        {"label": "label : 코인 테두리", "confidence": "confidence : 7%"},
+        {"label": "label : 금속 새김", "confidence": "confidence : 3%"},
+        {"label": "label : 엠블럼", "confidence": "confidence : 11%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },   
+            
+    {
+        "image": "29.jpg",
+        "predictions": [
+        {"label": "label : 불분명한 동전", "confidence": "confidence : 6%"},
+        {"label": "label : 반사된 조각", "confidence": "confidence : 12%"},
+        {"label": "label : 기계 부품", "confidence": "confidence : 13%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "30.jpg",
+        "predictions": [
+        {"label": "label : 구운 시리얼 표면", "confidence": "confidence : 12%"},
+        {"label": "label : 산화된 금속 조각", "confidence": "confidence : 10%"},
+        {"label": "label : 부식된 점토 타일", "confidence": "confidence : 11%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },  
+          {
+        "image": "31.jpg",
+        "predictions": [
+        {"label": "label : 녹청 낀 동판", "confidence": "confidence : 13%"},
+        {"label": "label : 부식된 금속 표면", "confidence": "confidence : 12%"},
+        {"label": "label : 곰팡이 핀 타일", "confidence": "confidence : 10%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "32.jpg",
+        "predictions": [
+        {"label": "label : 섬유조직 확대", "confidence": "confidence : 15%"},
+        {"label": "label : 타월 직물 조직", "confidence": "confidence : 14%"},
+        {"label": "label : 극세사 실 확대", "confidence": "confidence : 9%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },        
+            {
+        "image": "33.jpg",
+        "predictions": [
+        {"label": "label : 형광등 커버 플라스틱", "confidence": "confidence : 13%"},
+        {"label": "label : 코팅된 금속관", "confidence": "confidence : 11%"},
+        {"label": "label : 광택 있는 PVC재질", "confidence": "confidence : 10%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    } ,
+    {
+        "image": "34.jpg",
+        "predictions": [
+        {"label": "label : 석회질 혼합물", "confidence": "confidence : 14%"},
+        {"label": "label : 가루형 콘크리트", "confidence": "confidence : 10%"},
+        {"label": "label : 인공 조미료 잔여물", "confidence": "confidence : 8%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "35.jpg",
+        "predictions": [
+        {"label": "label : 플라스틱 방충망", "confidence": "confidence : 11%"},
+        {"label": "label : 금속 메쉬 위 이물질", "confidence": "confidence : 13%"},
+        {"label": "label : 벌레 사체 접촉 부위", "confidence": "confidence : 10%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "36.jpg",
+        "predictions": [
+        {"label": "label : 스틸 와이어망", "confidence": "confidence : 14%"},
+        {"label": "label : 코팅된 철망", "confidence": "confidence : 12%"},
+        {"label": "label : 촘촘한 철망 표면", "confidence": "confidence : 9%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "37.jpg",
+        "predictions": [
+        {"label": "label : 도로 표지 도장면", "confidence": "confidence : 13%"},
+        {"label": "label : 도장면 갈라짐", "confidence": "confidence : 12%"},
+        {"label": "label : 흰색 페인트 균열", "confidence": "confidence : 11%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "38.jpg",
+        "predictions": [
+        {"label": "label : 아스팔트와 흰색 도료 경계면", "confidence": "confidence : 14%"},
+        {"label": "label : 노면 마감재", "confidence": "confidence : 12%"},
+        {"label": "label : 도로차선 잔여물", "confidence": "confidence : 10%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    },
+    {
+        "image": "39.jpg",
+        "predictions": [
+        {"label": "label : 아스팔트 위 붉은 페인트", "confidence": "confidence : 15%"},
+        {"label": "label : 도로용 도장박리", "confidence": "confidence : 13%"},
+        {"label": "label : 산화된 코팅 표면", "confidence": "confidence : 11%"}
+        ],
+        "final_decision": "final_decision : 분류 실패"
+    }
+    
+]
